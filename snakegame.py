@@ -14,8 +14,8 @@ green = (0, 255, 0)
 blue = (50, 153, 213)
 
 # Display dimensions
-dis_width = 800
-dis_height = 600
+dis_width = 700
+dis_height = 700
 
 # Create the display
 dis = pygame.display.set_mode((dis_width, dis_height))
